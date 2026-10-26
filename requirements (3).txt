@@ -1,0 +1,4 @@
+aiogram>=3.7
+aiosqlite
+dnslib
+python-dotenv
